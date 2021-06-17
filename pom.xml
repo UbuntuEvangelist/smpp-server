@@ -12,7 +12,7 @@
 		<dependency>
 			<groupId>com.cloudhopper</groupId>
 			<artifactId>ch-smpp</artifactId>
-			<version>5.0.6</version>
+			<version>6.0.0-netty4-beta-1</version>
 		</dependency>
 		<dependency>
 			<groupId>net.gescobar</groupId>
@@ -102,7 +102,7 @@
 						<goals>
 							<goal>jar</goal>
 						</goals>
-						<configuration />
+						<configuration/>
 					</execution>
 				</executions>
 			</plugin>
